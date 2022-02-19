@@ -9,5 +9,4 @@ def card_value(string):
     elif string == 'Ace':
         return 1
     else:
-        ##// Converts string to integer
         return int(string)
