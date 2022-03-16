@@ -1,4 +1,3 @@
-***once your python solution has run, you can revert to the original test file with CTRL-Z if it's opened e.g. in Code***
 
 aloha
 boeja #baise <= should disappear

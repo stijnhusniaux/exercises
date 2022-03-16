@@ -11,7 +11,7 @@ Note how we asked for a *script*, not a function. A script is a file that contai
 print('bla')
 ```
 
-You can leave the first line out, it's simply meant to tell you
+Ypyttou can leave the first line out, it's simply meant to tell you
 what the name of the file is.
 To run this script, enter the following command in a terminal (*not* a Python shell):
 
